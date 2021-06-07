@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://SamLimpic.github.io/blogsitemap.xml
